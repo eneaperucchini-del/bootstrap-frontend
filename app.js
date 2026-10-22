@@ -1,0 +1,1 @@
+// JavaScript fuer bootstrap-frontend
